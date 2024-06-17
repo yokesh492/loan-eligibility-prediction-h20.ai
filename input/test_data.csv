@@ -1,0 +1,3 @@
+Loan ID,Customer ID,Loan Status,Current Loan Amount,Term,Credit Score,Years in current job,Home Ownership,Annual Income,Purpose,Monthly Debt,Years of Credit History,Months since last delinquent,Number of Open Accounts,Number of Credit Problems,Current Credit Balance,Maximum Open Credit,Bankruptcies,Tax Liens
+c79fc580-e366-4030-a45e-0a47e9b9ddaa,3de0b312-386a-44de-96e1-ac748183f24f,Loan Given,28053,Long Term,6740,3 years,Rent,120228,Debt Consolidation,1442.74,13,6,13,0,20466,30455,0,0
+928b7091-e2ec-4753-b9a6-8be019fd8484,a8bdab16-a6fe-442c-92c8-2af8e07e906b,Loan Refused,3947,Short Term,7350,10+ years,Home Mortgage,88812,Home Improvements,1147.16,22.4,66,16,1,17324,21309,0,0
